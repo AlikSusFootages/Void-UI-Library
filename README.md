@@ -1,4 +1,5 @@
-<div align="center" margin-top="10px">
+<div align="center">
+󠁛󠀣󠀷󠀶󠀵󠁤󠁥󠀴󠀬󠀣󠁤󠀱󠀹󠀹󠁣󠀱󠁝󠁛󠀣󠀷󠀶󠀵󠁤󠁥󠀴󠀬󠀣󠁤󠀱󠀹󠀹󠁣󠀱󠁝
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.discordapp.com/attachments/810891979147313184/1162401965360283659/261_20231013204925.png?ex=653bce30&is=65295930&hm=9179356949da535b8b437f0882d297b5908f6cf945cd62191ea693725fb926d4&">
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.discordapp.com/attachments/810891979147313184/1162401954228617246/261_20231013204918.png?ex=653bce2e&is=6529592e&hm=eeb08728abc67238e59845fcf01adec154f4350841ea779e514504339564d997&">
