@@ -1,6 +1,6 @@
-# 🎱 Void-UI-Library
+# 🎱 - Void-UI-Library
 
-### ✨ Features:
+### ✨ - Features:
 > - Tab's
 > - Label
 > - Paragraph
@@ -8,9 +8,9 @@
 > - Toggle
 > - Slider
 
-## 📃 Documentation:
+## 📃 - Documentation:
 
-### 📥 Loadstring:
+### 📥 - Loadstring:
 
 ```lua
 local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/AlikSusFootages/Void-UI-Library/main/src/file.lua"))()
