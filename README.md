@@ -1,12 +1,12 @@
-# Void-UI-Library
+# ◾ Void-UI-Library
 
-### Features:
-- Tab's
-- Label
-- Paragraph
-- Button
-- Toggle
-- Slider
+### ✨ Features:
+> - Tab's
+> - Label
+> - Paragraph
+> - Button
+> - Toggle
+> - Slider
 
 ## 📃 Documentation:
 
