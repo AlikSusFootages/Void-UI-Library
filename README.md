@@ -22,6 +22,13 @@
 > - Toggle
 > - Slider
 
+### ♻️ - Soon:
+> - Discord Webhook Support
+> - Input
+> - KeyBind
+> - Theme Maker
+> - etc!
+
 ## 📃 - Documentation:
 
 ### 📥 - Loadstring:
