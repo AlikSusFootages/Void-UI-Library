@@ -68,7 +68,7 @@ local Button = Tab:CreateButton({
 ### 🕹️ - Creating Toggle
 
 ```lua
-local toggle = tab:CreateToggle({ 
+local Toggle = Tab:CreateToggle({ 
     Title = "Toggle", 
     Callback = function(state)
         if state then
@@ -83,7 +83,7 @@ local toggle = tab:CreateToggle({
 ### 📍 - Creating Slider
 
 ```lua
-local slider = tab:CreateSlider({ 
+local Slider = Yab:CreateSlider({ 
     Title = "Slider", 
     Min = 0, 
     Max = 200, 
