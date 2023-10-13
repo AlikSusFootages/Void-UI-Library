@@ -1,5 +1,5 @@
 <div align="center">
-    **---**
+    <strong>---</strong>
 </div>
 
 <div align="center">
