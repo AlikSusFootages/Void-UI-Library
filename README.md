@@ -102,7 +102,7 @@ local Toggle = Tab:CreateToggle({
 ### 📍 - Creating Slider
 
 ```lua
-local Slider = Yab:CreateSlider({ 
+local Slider = Tab:CreateSlider({ 
     Title = "Slider", 
     Min = 0, 
     Max = 200, 
