@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-<img width="80%" src="https://cdn.discordapp.com/attachments/810891979147313184/1162399036200980520/Screenshot_2023-10-13-19-50-12-756_com.roblox.client.png?ex=653bcb76&is=65295676&hm=8a1135c496b8f550fbd90b3b6521a0bca54eb56b5901c733ac432e30023ed94f&" alt="Image">
+<img width="300px" src="https://cdn.discordapp.com/attachments/810891979147313184/1162399036200980520/Screenshot_2023-10-13-19-50-12-756_com.roblox.client.png?ex=653bcb76&is=65295676&hm=8a1135c496b8f550fbd90b3b6521a0bca54eb56b5901c733ac432e30023ed94f&" alt="Image">
 </div>
 
 ### ✨ - Features:
