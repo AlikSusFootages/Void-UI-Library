@@ -15,3 +15,11 @@
 ```lua
 local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/AlikSusFootages/Void-UI-Library/main/src/file.lua"))()
 ```
+
+### 🖼️ Creating UI:
+
+```lua
+local ui = Void:CreateWindow({
+    Name = "UI Library"
+}) 
+```
